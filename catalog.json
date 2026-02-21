@@ -1,1 +1,12 @@
-
+{
+  "id": "weapons_pack",
+  "title": "Weapons Pack",
+  "author": "MQ-team",
+  "category": "Gunpacks",
+  "previewUrl": "https://mq-team597.github.io/modbuilder-catalog/previews/weapons_pack.png",
+  "downloadUrl": "https://github.com/MQ-team597/modbuilder-catalog/releases/download/assets/weapons_pack.zip",
+  "sizeBytes": 12345678,
+  "uploadedAt": "2026-02-21T12:00:00Z",
+  "updatedAt": "2026-02-21T12:00:00Z",
+  "version": "1.0.0"
+}
